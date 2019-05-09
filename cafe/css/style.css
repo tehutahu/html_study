@@ -88,3 +88,27 @@ a:active {
 .news-item {
   margin: 0;
 }
+
+/* about.html */
+.shop-photo {
+  float: left;
+  padding: 0 1em 1em 0;
+}
+.clear {
+  clear: both;
+}
+/* table */
+.info {
+  border-collapse: collapse;
+}
+.info th, .info td {
+  padding: 8px;
+  border: 1px solid #bec2c7;
+  text-align: left;
+}
+.info th {
+  border-color: #dde2ea;
+  width: 90px;
+  color: #3f5170;
+  vertical-align: top;
+}
